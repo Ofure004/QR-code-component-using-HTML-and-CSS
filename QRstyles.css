@@ -29,11 +29,11 @@ img{
     border-radius: 10px;
 }
 @font-face {
-    src: url(Outfit/static/Outfit-Bold.ttf);
+    src: url(./Outfit/static/Outfit-Bold.ttf);
     font-family: "bold";
 }
 @font-face {
-    src:url(Outfit/static/Outfit-Regular.ttf);
+    src:url(./Outfit/static/Outfit-Regular.ttf);
     font-family: "regular";
 }
 #firsttext{
